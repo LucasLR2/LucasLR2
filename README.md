@@ -5,10 +5,11 @@
 </div>
 
 <div align="center">
-  
-🎓 **Currently finishing my bilingual high school, starting university next year**  
-💻 **Passionate about software development, technology, and innovation**  
-🌱 **Continuously learning and building projects to sharpen my skills**  
+
+| 🎓 | **Currently finishing my bilingual high school, starting university next year** |
+|:---:|:---|
+| 💻 | **Passionate about software development, technology, and innovation** |
+| 🌱 | **Continuously learning and building projects to sharpen my skills** |
 
 </div>
 
@@ -54,7 +55,7 @@ const lucas = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasLR2&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=LucasLR2&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
