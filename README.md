@@ -6,10 +6,19 @@
 
 <div align="center">
 
-| 🎓 | **Currently finishing my bilingual high school, starting university next year** |
-|:---:|:---|
-| 💻 | **Passionate about software development, technology, and innovation** |
-| 🌱 | **Continuously learning and building projects to sharpen my skills** |
+---
+
+🎓 **Currently finishing my bilingual high school, starting university next year**  
+
+---
+
+💻 **Passionate about software development, technology, and innovation**  
+
+---
+
+🌱 **Continuously learning and building projects to sharpen my skills**  
+
+---
 
 </div>
 
