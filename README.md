@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi, I'm Lucas!
 
 <div align="center">
-  <img src="./image.png" alt="Banner" width="100%" />
+  <img src="./banner.png" alt="Banner" width="100%" />
 </div>
 
 <div align="center">
