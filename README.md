@@ -63,10 +63,6 @@ const lucas = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLR2&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=LucasLR2&theme=tokyonight&hide_border=true" />
-</div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" height="35"> Let's Connect!
